@@ -97,11 +97,11 @@ The dataset contains:
         -	Male-targeted campaigns generally perform better in conversions  
 
 ## 📌 Recommendations
-•	Increase budget allocation for high-performing campaigns and demographics
-•	Reduce spend on high-CPA audience groups
-•	Optimize creatives for costly demographics
-•	Improve post-click conversion experience
-•	Continuously monitor CTR, CPA, CPM, and conversion trends
+-	Increase budget allocation for high-performing campaigns and demographics  
+-	Reduce spend on high-CPA audience groups  
+-	Optimize creatives for costly demographics  
+-	Improve post-click conversion experience  
+-	Continuously monitor CTR, CPA, CPM, and conversion trends  
 
 ## 📷 Dashboard Preview
 Add your dashboard screenshots inside a graphs/ or images/ folder and update the image links below.
