@@ -91,7 +91,7 @@ The dataset contains:
         -	Campaign 1178  
                           -	Lowest efficiency  
                           -	Highest acquisition cost  
-- ** Cost Trends**
+- **Cost Trends**  
         -	CPA and CPM increase significantly with age  
         -	Younger audiences provide better ROI
         -	Male-targeted campaigns generally perform better in conversions  
