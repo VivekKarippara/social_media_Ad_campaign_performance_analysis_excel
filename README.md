@@ -105,11 +105,11 @@ The dataset contains:
 
 ## 📷 Dashboard Preview
 ![image alt](https://github.com/VivekKarippara/social_media_Ad_campaign_performance_analysis_excel/blob/2442f2173409578262550c845bd7d0d9b98a36fe/Graphs/Dashboard.png)
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
+![image alt](https://github.com/VivekKarippara/social_media_Ad_campaign_performance_analysis_excel/blob/2442f2173409578262550c845bd7d0d9b98a36fe/Graphs/KPI%20Summary.png)
+![image alt](https://github.com/VivekKarippara/social_media_Ad_campaign_performance_analysis_excel/blob/2442f2173409578262550c845bd7d0d9b98a36fe/Graphs/CPM_CPA%20Analysis.png)
+![image alt](https://github.com/VivekKarippara/social_media_Ad_campaign_performance_analysis_excel/blob/2442f2173409578262550c845bd7d0d9b98a36fe/Graphs/Campaign%20Effectiveness.png)
+![image alt](https://github.com/VivekKarippara/social_media_Ad_campaign_performance_analysis_excel/blob/2442f2173409578262550c845bd7d0d9b98a36fe/Graphs/Demographics.png)
+
 
 ## 📑 Project Deliverables
 •	Interactive Dashboard
