@@ -119,12 +119,12 @@ The dataset contains:
 •	KPI Analysis
 
 ## 🏆 Hackathon Information
-Competition: Hack Studio – September Edition organized by Codingninjas 10x Club.
+Competition: Hack Studio – September Edition organized by Codingninjas 10x Club.  
 Track: Data Analytics – Social Media Campaign Optimization
 
 ## 👨‍💻 Author
-Vivek Karippara
-•	Aspiring Data Analyst
+Vivek Karippara  
+•	Aspiring Data Analyst  
 •	Skilled in Excel, Power BI, SQL, Python & Data Visualization
 
 ## 📬 Feedback
