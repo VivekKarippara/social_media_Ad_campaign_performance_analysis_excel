@@ -104,7 +104,7 @@ The dataset contains:
 -	Continuously monitor CTR, CPA, CPM, and conversion trends  
 
 ## 📷 Dashboard Preview
-![image alt]()
+![image alt](https://github.com/VivekKarippara/social_media_Ad_campaign_performance_analysis_excel/blob/2442f2173409578262550c845bd7d0d9b98a36fe/Graphs/Dashboard.png)
 ![image alt]()
 ![image alt]()
 ![image alt]()
