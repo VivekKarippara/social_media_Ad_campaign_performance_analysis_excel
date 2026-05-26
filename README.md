@@ -61,11 +61,11 @@ The dataset contains:
 
 ## 🛠 Tools & Technologies
 -	**Microsoft Excel**  
-   -	Pivot Tables  
-   -	Pivot Charts  
-   -	KPI Calculations  
-   -	Dashboard Design  
-   -	Slicers & Filters  
+        -	Pivot Tables  
+        -	Pivot Charts  
+        -	KPI Calculations  
+        -	Dashboard Design  
+        -	Slicers & Filters  
 -	**Data Visualization**  
    -	KPI Cards  
    -	Trend/Bar Charts   
