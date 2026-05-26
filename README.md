@@ -73,28 +73,28 @@ The dataset contains:
         -	Demographic Insights  
 
 ## 📈 Key Insights   
-🔹 **Best Performing Audience**<br>  
+-  **Best Performing Audience**
         -      30–34 Male Segment  
         -      Lowest CPA  
         -      Highest conversion efficiency  
         -      Most cost-effective audience  
-🔹 Highest Engagement Audience  
-     •	45–49 Female Segment  
-     •	Highest CTR  
-     •	Strong engagement   
-     •	Poor conversion efficiency  
-🔹 Campaign Performance  
-  •	Campaign 916  
-     •	Highest CTR  
-     •	Lowest CPA  
-     •	Best overall campaign  
-  •	Campaign 1178  
-     •	Lowest efficiency  
-     •	Highest acquisition cost  
-🔹 Cost Trends  
-     •	CPA and CPM increase significantly with age  
-     •	Younger audiences provide better ROI  
-     •	Male-targeted campaigns generally perform better in conversions  
+- **Highest Engagement Audience**  
+        -      45–49 Female Segment  
+        -      Highest CTR  
+        -      Strong engagement   
+     	-      Poor conversion efficiency  
+- **Campaign Performance**  
+        -	Campaign 916  
+                          -	Highest CTR  
+                          -	Lowest CPA  
+                          -	Best overall campaign  
+        -	Campaign 1178  
+                          -	Lowest efficiency  
+                          -	Highest acquisition cost  
+- ** Cost Trends**
+        -	CPA and CPM increase significantly with age  
+        -	Younger audiences provide better ROI
+        -	Male-targeted campaigns generally perform better in conversions  
 
 ## 📌 Recommendations
 •	Increase budget allocation for high-performing campaigns and demographics
