@@ -104,8 +104,12 @@ The dataset contains:
 -	Continuously monitor CTR, CPA, CPM, and conversion trends  
 
 ## 📷 Dashboard Preview
-Add your dashboard screenshots inside a graphs/ or images/ folder and update the image links below.
-![Dashboard Overview](graphs/dashboard.png)
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
 
 ## 📑 Project Deliverables
 •	Interactive Dashboard
