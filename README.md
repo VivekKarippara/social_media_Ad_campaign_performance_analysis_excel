@@ -60,17 +60,17 @@ The dataset contains:
 •	Approved Conversions  
 
 ## 🛠 Tools & Technologies
-•	Microsoft Excel  
-   •	Pivot Tables  
-   •	Pivot Charts  
-   •	KPI Calculations  
-   •	 Dashboard Design  
-   •	Slicers & Filters  
-•	Data Visualization  
-   •	KPI Cards  
-   •	Trend/Bar Charts   
-   •	Comparative Analysis   
-   •	Demographic Insights  
+-	**Microsoft Excel**  
+   -	Pivot Tables  
+   -	Pivot Charts  
+   -	KPI Calculations  
+   -	Dashboard Design  
+   -	Slicers & Filters  
+-	**Data Visualization**  
+   -	KPI Cards  
+   -	Trend/Bar Charts   
+   -	Comparative Analysis   
+   -	Demographic Insights  
 
 ## 📈 Key Insights   
 🔹 Best Performing Audience  
