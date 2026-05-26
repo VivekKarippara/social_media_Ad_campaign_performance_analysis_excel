@@ -47,17 +47,17 @@ CPA = Spent / Approved Conversion
 CCR = (Approved Conversion / Clicks) × 100
 
 ## 📁 Dataset Information
-The dataset contains:
-•	Ad IDs
-•	Campaign IDs
-•	Age Groups
-•	Gender
-•	Interest Categories
-•	Impressions
-•	Clicks
-•	Ad Spend
-•	Total Conversions
-•	Approved Conversions
+The dataset contains:  
+•	Ad IDs  
+•	Campaign IDs  
+•	Age Groups  
+•	Gender  
+•	Interest Categories  
+•	Impressions  
+•	Clicks  
+•	Ad Spend  
+•	Total Conversions  
+•	Approved Conversions  
 
 ## 🛠 Tools & Technologies
 •	Microsoft Excel<br>
