@@ -60,41 +60,41 @@ The dataset contains:
 •	Approved Conversions  
 
 ## 🛠 Tools & Technologies
-•	Microsoft Excel<br>
-   •	Pivot Tables
-   •	Pivot Charts
-   •	KPI Calculations
-   •	 Dashboard Design
-   •	Slicers & Filters
-•	Data Visualization<br>
-   •	KPI Cards
-   •	Trend/Bar Charts
-   •	Comparative Analysis
-   •	Demographic Insights
+•	Microsoft Excel  
+   •	Pivot Tables  
+   •	Pivot Charts  
+   •	KPI Calculations  
+   •	 Dashboard Design  
+   •	Slicers & Filters  
+•	Data Visualization  
+   •	KPI Cards  
+   •	Trend/Bar Charts   
+   •	Comparative Analysis   
+   •	Demographic Insights  
 
-## 📈 Key Insights
-🔹 Best Performing Audience<br>
-     •	30–34 Male Segment
-     •	Lowest CPA
-     •  Highest conversion efficiency
-     •	Most cost-effective audience
-🔹 Highest Engagement Audience<br>
-     •	45–49 Female Segment
-     •	Highest CTR
-     •	Strong engagement
-     •	Poor conversion efficiency
-🔹 Campaign Performance<br>
-  •	Campaign 916<br>
-     •	Highest CTR
-     •	Lowest CPA
-     •	Best overall campaign
-  •	Campaign 1178<br>
-     •	Lowest efficiency
-     •	Highest acquisition cost
-🔹 Cost Trends<br>
-     •	CPA and CPM increase significantly with age
-     •	Younger audiences provide better ROI
-     •	Male-targeted campaigns generally perform better in conversions
+## 📈 Key Insights   
+🔹 Best Performing Audience  
+     •	30–34 Male Segment  
+     •	Lowest CPA  
+     •  Highest conversion efficiency  
+     •	Most cost-effective audience  
+🔹 Highest Engagement Audience  
+     •	45–49 Female Segment  
+     •	Highest CTR  
+     •	Strong engagement   
+     •	Poor conversion efficiency  
+🔹 Campaign Performance  
+  •	Campaign 916  
+     •	Highest CTR  
+     •	Lowest CPA  
+     •	Best overall campaign  
+  •	Campaign 1178  
+     •	Lowest efficiency  
+     •	Highest acquisition cost  
+🔹 Cost Trends  
+     •	CPA and CPM increase significantly with age  
+     •	Younger audiences provide better ROI  
+     •	Male-targeted campaigns generally perform better in conversions  
 
 ## 📌 Recommendations
 •	Increase budget allocation for high-performing campaigns and demographics
