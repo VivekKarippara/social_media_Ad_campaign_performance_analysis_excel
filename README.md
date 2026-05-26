@@ -61,40 +61,40 @@ The dataset contains:
 
 ## 🛠 Tools & Technologies
 •	Microsoft Excel
-o	Pivot Tables
-o	Pivot Charts
-o	KPI Calculations
-o	Dashboard Design
-o	Slicers & Filters
+   •	Pivot Tables
+   •	Pivot Charts
+   •	KPI Calculations
+   •	 Dashboard Design
+   •	Slicers & Filters
 •	Data Visualization
-o	KPI Cards
-o	Trend Charts
-o	Comparative Analysis
-o	Demographic Insights
+   •	KPI Cards
+   •	Trend/Bar Charts
+   •	Comparative Analysis
+   •	Demographic Insights
 
 ## 📈 Key Insights
 🔹 Best Performing Audience
-•	30–34 Male Segment
-o	Lowest CPA
-o	Highest conversion efficiency
-o	Most cost-effective audience
+     •	30–34 Male Segment
+     •	Lowest CPA
+     •  Highest conversion efficiency
+     •	Most cost-effective audience
 🔹 Highest Engagement Audience
-•	45–49 Female Segment
-o	Highest CTR
-o	Strong engagement
-o	Poor conversion efficiency
+     •	45–49 Female Segment
+     •	Highest CTR
+     •	Strong engagement
+     •	Poor conversion efficiency
 🔹 Campaign Performance
 •	Campaign 916
-o	Highest CTR
-o	Lowest CPA
-o	Best overall campaign
+   •	Highest CTR
+   •	Lowest CPA
+   •	Best overall campaign
 •	Campaign 1178
-o	Lowest efficiency
-o	Highest acquisition cost
+   •	Lowest efficiency
+   •	Highest acquisition cost
 🔹 Cost Trends
-•	CPA and CPM increase significantly with age
-•	Younger audiences provide better ROI
-•	Male-targeted campaigns generally perform better in conversions
+   •	CPA and CPM increase significantly with age
+   •	Younger audiences provide better ROI
+   •	Male-targeted campaigns generally perform better in conversions
 
 ## 📌 Recommendations
 •	Increase budget allocation for high-performing campaigns and demographics
